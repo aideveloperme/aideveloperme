@@ -7,3 +7,6 @@ Hey @aideveloperme! 😃
 - 😄 Pronouns: **(Your choice, or you can skip it if you prefer).**  
 - ⚡ Fun fact: **I was the gold medalist in my M.Tech at NIT Mizoram and love intergrating software/framework for different hardware architectures!**  
 
+🎓 Background:
+🏆 M.Tech in Computer Science & Engineering, NIT Mizoram (Gold Medalist)
+🎓 B.Tech in Information Technology, Govt. Engineering College Barton Hill
